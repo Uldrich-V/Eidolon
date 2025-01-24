@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Eidolon project.sln"
+    "dotnet.defaultSolution": "Eidolon.sln"
 }
